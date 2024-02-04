@@ -9,8 +9,8 @@
 
 steps:
 
-1.navigate yourself to the whatsapp group 
-2.go to setting and set zoom to 80 % and left click to open inspect panel
+1. navigate yourself to the whatsapp group 
+2. go to setting and set zoom to 80 % and left click to open inspect panel
 3. go to console and select the pointer and hover over over anyones name which is not already saved on your device 
 4. copy the class name in my case it was "._30scZ"
 5. now run the first half of the code on your console to get the titlesArray
